@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ПАРАМАУНТ ПИКЧЭРЗ</string>
+    <string name="film_name">Avengers: Endgame</string>
+    <string name="released">Released:</string>
+    <string name="dateOfRelease">April 22,2019</string>
+    <string name="overview">Overview:</string>
+    <string name="description">The Avengers team last confronts Thanos, the most powerful villain in the universe. For the sake of victory, they will have to join forces and finally lay out all the hidden trump cards. The epic blockbuster of the film directors of Russo\'s brothers “Avengers: Final” completes the story of the alliance and exploits of the old guard of superheroes performed by Robert Downey Jr., Chris Evans, Scarlett Johansson and others.</string>
+    <string name="trailer_btn">Movie trailer</string>
+</resources>
